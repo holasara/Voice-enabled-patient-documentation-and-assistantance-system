@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52b68e02b06c7840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2ffb012cfd6ef5c5",
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1.md",
+                "file": "Paper 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1.md",
+                "file": "Paper 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1.md"
+                "file": "Paper 2.md"
               }
             }
           }
@@ -160,8 +173,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11de16eece4192ef",
+  "active": "52b68e02b06c7840",
   "lastOpenFiles": [
-    "Paper 1.md"
+    "Paper 1.md",
+    "Paper 2.md"
   ]
 }
